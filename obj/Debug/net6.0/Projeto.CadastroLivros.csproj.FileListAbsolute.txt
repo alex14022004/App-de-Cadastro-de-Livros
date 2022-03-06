@@ -1,0 +1,15 @@
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.csproj.AssemblyReference.cache
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.AssemblyInfoInputs.cache
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.AssemblyInfo.cs
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\bin\Debug\net6.0\Projeto.CadastroLivros.exe
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\bin\Debug\net6.0\Projeto.CadastroLivros.deps.json
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\bin\Debug\net6.0\Projeto.CadastroLivros.runtimeconfig.json
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\bin\Debug\net6.0\Projeto.CadastroLivros.dll
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\bin\Debug\net6.0\Projeto.CadastroLivros.pdb
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.dll
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\refint\Projeto.CadastroLivros.dll
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.pdb
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\Projeto.CadastroLivros.genruntimeconfig.cache
+C:\Users\alex\Desktop\Construtores\App de Cadrasto\Projeto.CadastroLivros\obj\Debug\net6.0\ref\Projeto.CadastroLivros.dll
